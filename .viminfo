@@ -1,0 +1,1159 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.0.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/mysys
+
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:/mysys
+|2,0,1583951700,,"/mysys"
+:q!
+|2,0,1583948603,,"q!"
+:/time
+|2,0,1583338101,,"/time"
+:/define
+|2,0,1583338085,,"/define"
+:!q
+|2,0,1583226625,,"!q"
+:/$PATH
+|2,0,1578042038,,"/$PATH"
+:PluginInstall
+|2,0,1577993516,,"PluginInstall"
+:PluginINstall
+|2,0,1577993510,,"PluginINstall"
+:YcmCompleter GoToDeclarationd
+|2,0,1577631118,,"YcmCompleter GoToDeclarationd"
+:Plugin
+|2,0,1577629131,,"Plugin"
+:colorscheme molokaai
+|2,0,1577624169,,"colorscheme molokaai"
+:colorscheme molokai
+|2,0,1577624139,,"colorscheme molokai"
+:colorscheme default
+|2,0,1577623818,,"colorscheme default"
+:colorscheme ron
+|2,0,1577623814,,"colorscheme ron"
+:colorscheme delek
+|2,0,1577623807,,"colorscheme delek"
+:colorscheme peachpuff
+|2,0,1577623780,,"colorscheme peachpuff"
+:peachpuff
+|2,0,1577623772,,"peachpuff"
+:colorscheme pablo
+|2,0,1577623766,,"colorscheme pablo"
+:colorscheme murphy
+|2,0,1577623748,,"colorscheme murphy"
+:colorscheme morning
+|2,0,1577623738,,"colorscheme morning"
+:colorscheme moring
+|2,0,1577623733,,"colorscheme moring"
+:colorscheme industry
+|2,0,1577623725,,"colorscheme industry"
+:colorschems inderstry
+|2,0,1577623715,,"colorschems inderstry"
+:colorscheme elflord
+|2,0,1577623691,,"colorscheme elflord"
+:colorscheme evening
+|2,0,1577623675,,"colorscheme evening"
+:colorscheme darkblue
+|2,0,1577623637,,"colorscheme darkblue"
+:colorscheme desert
+|2,0,1577623631,,"colorscheme desert"
+:colorscheme blue.vim
+|2,0,1577623613,,"colorscheme blue.vim"
+:colorscheme blue
+|2,0,1577623608,,"colorscheme blue"
+:colorscheme torte
+|2,0,1577623603,,"colorscheme torte"
+:colorscheme slate
+|2,0,1577623596,,"colorscheme slate"
+:colorscheme zellner
+|2,0,1577623586,,"colorscheme zellner"
+:colorscheme shine
+|2,0,1577623579,,"colorscheme shine"
+:colorscheme koehler
+|2,0,1577623570,,"colorscheme koehler"
+:set laststatus=1
+|2,0,1577622781,,"set laststatus=1"
+:set laststauts=1
+|2,0,1577622770,,"set laststauts=1"
+:AirlineTheme base16
+|2,0,1577622660,,"AirlineTheme base16"
+:AirlineTheme base16-spacemacs
+|2,0,1577622650,,"AirlineTheme base16-spacemacs"
+:AirlineTheme solarized
+|2,0,1577622576,,"AirlineTheme solarized"
+:q
+|2,0,1577622528,,"q"
+:sp
+|2,0,1577622500,,"sp"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+?/mol
+|2,1,1588076988,47,"mol"
+? mysys
+|2,1,1583951700,,"mysys"
+? time
+|2,1,1583338101,,"time"
+? define
+|2,1,1583338085,,"define"
+?/menuconfig
+|2,1,1583226615,47,"menuconfig"
+? $PATH
+|2,1,1578042038,,"$PATH"
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+"0	CHAR	0
+	 tf.Variable(tf.random_uniform([-1],-100,100))
+|3,0,0,0,1,0,1578039184," tf.Variable(tf.random_uniform([-1],-100,100))"
+"1	LINE	0
+			printf("PID(%d) fork!!",getpid());
+|3,0,1,1,1,0,1583232565,"		printf(\"PID(%d) fork!!\",getpid());"
+"2	LINE	0
+	export LD_LIBRARY_PATH="/usr/local/cuda-9.0/lib64:$LD_LOBRARY_PATH"
+|3,0,2,1,1,0,1578042790,"export LD_LIBRARY_PATH=\"/usr/local/cuda-9.0/lib64:$LD_LOBRARY_PATH\""
+"3	LINE	0
+	export LD_LIBRARY_PATH="/usr/local/cuda-9.0/lib64:$LD_LOBRARY_PATHdd"
+|3,0,3,1,1,0,1578042769,"export LD_LIBRARY_PATH=\"/usr/local/cuda-9.0/lib64:$LD_LOBRARY_PATHdd\""
+"4	LINE	0
+	LD_LIBRARY_PATH="/usr/local/cuda-9-0/lib64"
+|3,0,4,1,1,0,1578042479,"LD_LIBRARY_PATH=\"/usr/local/cuda-9-0/lib64\""
+"5	LINE	0
+	LD_LIBRARY_PAYH="/usr/local/cuda-9.0/lib64"
+|3,0,5,1,1,0,1578041931,"LD_LIBRARY_PAYH=\"/usr/local/cuda-9.0/lib64\""
+"6	CHAR	0
+	
+	$ cd 설치경로
+	
+	$ sudo tar -xzvf cudnn-9.0-linux-x64-v7.0.tgz 
+	
+	$ cd cuda
+	
+	$ sudo cp include/cudnn.h /usr/local/cuda/include
+	
+	$ sudo cp lib64/libcudnn* /usr/local/cuda/lib64
+	
+	$ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*
+	
+	$ cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
+|3,0,6,0,14,0,1578039178,"","$ cd 설치경로","","$ sudo tar -xzvf cudnn-9.0-linux-x64-v7.0.tgz ","","$ cd cuda","","$ sudo cp include/cudnn.h /usr/local/cuda/include","","$ sudo cp lib64/libcudnn* /usr/local/cuda/lib64","","$ sudo chmod a+r /usr/local/cuda/lib64/libcudnn*","","$ cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2"
+"7	LINE	0
+	
+|3,0,7,1,1,0,1577993492,""
+"8	LINE	0
+	
+|3,0,8,1,1,0,1577993491,""
+"9	LINE	0
+	"ycm
+|3,0,9,1,1,0,1577993491,"\"ycm"
+""-	CHAR	0
+	}
+|3,1,36,0,1,0,1588075905,"}"
+
+# 파일 마크:
+'0  54  27  ~/.vimrc
+|4,48,54,27,1588077000,"~/.vimrc"
+'1  54  27  ~/.vimrc
+|4,49,54,27,1588076995,"~/.vimrc"
+'2  1  0  ~/.vim/.vimrc
+|4,50,1,0,1588076713,"~/.vim/.vimrc"
+'3  47  66  ~/.vimrc
+|4,51,47,66,1588076535,"~/.vimrc"
+'4  47  66  ~/.vimrc
+|4,52,47,66,1588076535,"~/.vimrc"
+'5  47  66  ~/.vimrc
+|4,53,47,66,1588076535,"~/.vimrc"
+'6  47  66  ~/.vimrc
+|4,54,47,66,1588076535,"~/.vimrc"
+'7  23  0  ~/hongik/sphw1/main.c
+|4,55,23,0,1588075924,"~/hongik/sphw1/main.c"
+'8  20  0  ~/hongik/sphw1/main.c
+|4,56,20,0,1588075915,"~/hongik/sphw1/main.c"
+'9  20  0  ~/hongik/sphw1/main.c
+|4,57,20,0,1588075915,"~/hongik/sphw1/main.c"
+
+# 점프목록 (새것이 먼저):
+-'  54  27  ~/.vimrc
+|4,39,54,27,1588077000,"~/.vimrc"
+-'  54  27  ~/.vimrc
+|4,39,54,27,1588076995,"~/.vimrc"
+-'  47  66  ~/.vimrc
+|4,39,47,66,1588076721,"~/.vimrc"
+-'  47  66  ~/.vimrc
+|4,39,47,66,1588076721,"~/.vimrc"
+-'  1  0  ~/.vim/.vimrc
+|4,39,1,0,1588076713,"~/.vim/.vimrc"
+-'  1  0  ~/.vim/.vimrc
+|4,39,1,0,1588076713,"~/.vim/.vimrc"
+-'  1  0  ~/.vim/.vimrc
+|4,39,1,0,1588076713,"~/.vim/.vimrc"
+-'  1  0  ~/.vim/.vimrc
+|4,39,1,0,1588076713,"~/.vim/.vimrc"
+-'  47  66  ~/.vimrc
+|4,39,47,66,1588076535,"~/.vimrc"
+-'  47  66  ~/.vimrc
+|4,39,47,66,1588076535,"~/.vimrc"
+-'  44  0  ~/.vimrc
+|4,39,44,0,1588076529,"~/.vimrc"
+-'  44  0  ~/.vimrc
+|4,39,44,0,1588076529,"~/.vimrc"
+-'  44  0  ~/.vimrc
+|4,39,44,0,1588076529,"~/.vimrc"
+-'  44  0  ~/.vimrc
+|4,39,44,0,1588076529,"~/.vimrc"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075924,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075920,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  20  0  ~/hongik/sphw1/main.c
+|4,39,20,0,1588075915,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075905,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075782,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075267,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075267,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075267,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075267,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075267,"~/hongik/sphw1/main.c"
+-'  23  0  ~/hongik/sphw1/main.c
+|4,39,23,0,1588075267,"~/hongik/sphw1/main.c"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/.vimrc
+	*	1588076999	0
+	"	54	27
+	.	43	0
+	+	9	9
+	+	2	0
+	+	3	2
+	+	4	2
+	+	3	1
+	+	2	0
+	+	4	0
+	+	45	19
+	+	45	0
+	+	42	0
+	+	42	36
+	+	31	2
+	+	32	2
+	+	31	2
+	+	32	2
+	+	34	7
+	+	2	0
+	+	3	1
+	+	4	1
+	+	23	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	42	0
+	+	45	0
+	+	58	0
+	+	23	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	45	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	54	26
+	+	53	0
+	+	52	0
+	+	53	0
+	+	52	0
+	+	53	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	54	0
+	+	53	0
+	+	52	0
+	+	51	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	51	0
+	+	52	0
+	+	22	16
+	+	23	0
+	+	24	0
+	+	24	19
+	+	45	19
+	+	23	0
+	+	36	26
+	+	35	15
+	+	30	25
+	+	31	0
+	+	30	2
+	+	29	35
+	+	31	42
+	+	32	41
+	+	33	61
+	+	36	0
+	+	35	22
+	+	23	11
+	+	35	0
+	+	34	0
+	+	34	5
+	+	34	33
+	+	34	0
+	+	44	6
+	+	43	0
+	+	43	34
+	+	44	16
+	+	43	3
+	+	44	16
+	+	43	0
+	+	43	59
+	+	43	31
+	+	34	0
+	+	43	0
+
+> ~/.vim/.vimrc
+	*	1588076713	0
+	"	1	0
+
+> ~/hongik/sphw1/main.c
+	*	1588075924	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
+
+> ~/.bashrc
+	*	1587581946	0
+	"	121	87
+	^	120	44
+	.	120	43
+	+	119	43
+	+	121	85
+	+	119	21
+	+	120	17
+	+	119	0
+	+	120	43
+
+> ~/prac/c_p/mysyscall.c
+	*	1583957138	0
+	"	4	11
+	^	4	12
+	.	4	11
+	+	3	11
+	+	4	24
+	+	5	9
+	+	4	11
+
+> ~/prac/c_p/My_systemcall.c
+	*	1583956873	0
+	"	1	0
+	^	1	0
+
+> /usr/src/linux-5.5.8/arch/x86/entry/syscalls/syscall_64.tbl
+	*	1583956854	0
+	"	360	11
+	^	360	41
+	.	360	28
+	+	403	46
+	+	360	28
+
+> ~/prac/c_p/mySystem_call.c
+	*	1583956795	0
+	"	1	0
+
+> /usr/src/linux-5.5.8/arch/x86/include/generated/asm/syscalls_64.h
+	*	1583951846	0
+	"	2555	5
+	^	2555	6
+	.	2556	0
+	+	2555	181
+	+	2556	0
+
+> /usr/src/linux-5.5.8/kernel/mysyscall.c
+	*	1583951522	0
+	"	3	21
+	^	3	22
+	.	3	21
+	+	1	24
+	+	3	36
+	+	4	33
+	+	6	9
+	+	4	31
+	+	3	21
+
+> /usr/src/linux-5.5.8/include/linux/syscalls.h
+	*	1583951481	0
+	"	1422	21
+	^	1422	22
+	.	1422	21
+	+	1421	0
+	+	1422	36
+	+	1423	0
+	+	1422	21
+
+> /usr/src/linux-5.5.8/arch/x86/kernel/smp.c
+	*	1583951182	0
+	"	250	0
+
+> /usr/src/linux-5.5.8/arch/x86/entry/syscalls/syscalltbl.sh
+	*	1583951067	0
+	"	1	0
+
+> /usr/src/linux-5.5.8/arch/x86/entry/syscalls/syscall_32.tbl
+	*	1583951037	0
+	"	441	0
+
+> /usr/src/linux-5.5.8/arch/x86/entry/syscalls/Makefile
+	*	1583951012	0
+	"	1	0
+
+> arch/x86/entry/syscalls/syscall_64.tbl
+	*	1583950910	0
+	"	1	0
+
+> /usr/src/linux-5.5.8/kernel/Makefile
+	*	1583950864	0
+	"	13	50
+	^	13	51
+	.	13	50
+	+	13	50
+
+> /usr/src/linux-5.5.8/kernel/async.c
+	*	1583949492	0
+	"	324	54
+
+> /usr/src/linux-5.5.8/kernel/sys.c
+	*	1583948696	0
+	"	196	0
+
+> /usr/src/linux-5.5.8/arch/x86/entry/syscall_64.c
+	*	1583948332	0
+	"	1	0
+
+> /etc/apt/sources.list
+	*	1583944942	0
+	"	19	0
+
+> /etc/apt/sources.list.d/google-chrome.list
+	*	1583944904	0
+	"	1	0
+
+> ~/prac/c_p/test_struct.c
+	*	1583402544	0
+	"	10	10
+	^	10	11
+	.	10	11
+	+	1	17
+	+	4	6
+	+	7	11
+	+	8	6
+	+	10	12
+	+	5	1
+	+	8	1
+	+	3	7
+	+	5	2
+	+	3	0
+	+	5	1
+	+	8	7
+	+	10	24
+	+	3	7
+	+	5	2
+	+	8	1
+	+	10	11
+
+> /usr/src/linux-5.5.7/kernel/sched/sched.h
+	*	1583338985	0
+	"	1	0
+
+> /usr/src/linux-headers-5.3.0-40/include/linux/sched.h
+	*	1583338935	0
+	"	100	0
+
+> /usr/include/linux/sched.h
+	*	1583338105	0
+	"	14	1
+	^	14	2
+	.	14	1
+	+	14	1
+
+> ~/prac/system/clone.c
+	*	1583322665	0
+	"	19	84
+	^	19	85
+	.	19	84
+	+	3	18
+	+	7	24
+	+	8	5
+	+	9	45
+	+	10	9
+	+	24	0
+	+	10	10
+	+	11	9
+	+	14	11
+	+	15	9
+	+	16	23
+	+	18	53
+	+	19	89
+	+	20	10
+	+	21	53
+	+	22	9
+	+	18	39
+	+	19	84
+
+> ~/prac/system/fork.c
+	*	1583322132	0
+	"	15	53
+	^	15	54
+	.	15	54
+	+	1	21
+	+	9	11
+	+	10	11
+	+	13	53
+	+	16	16
+	+	17	1
+	+	16	15
+	+	17	23
+	+	18	9
+	+	19	20
+	+	21	6
+	+	22	5
+	+	26	8
+	+	31	10
+	+	30	45
+	+	31	10
+	+	32	0
+	+	30	6
+	+	5	0
+	+	2	1
+	+	26	10
+	+	9	12
+	+	29	0
+	+	26	3
+	+	23	0
+	+	18	0
+	+	20	35
+	+	26	2
+	+	20	25
+	+	28	0
+	+	26	1
+	+	24	7
+	+	25	36
+	+	14	13
+	+	17	3
+	+	25	46
+	+	26	2
+	+	25	28
+	+	20	35
+	+	10	14
+	+	15	38
+	+	25	39
+	+	30	33
+	+	20	40
+	+	25	28
+	+	15	54
+
+> ~/prac/system/fork
+	*	1583321591	0
+	"	1	0
+
+> ~/prac/c_p/linux_server.cpp
+	*	1583310485	0
+	"	32	10
+	^	32	11
+	.	32	11
+	+	32	11
+
+> ~/prac/c_p/server
+	*	1583310455	0
+	"	1	0
+
+> ~/prac/c_p/linux_server.cp
+	*	1583310303	0
+	"	4	0
+	^	71	1
+	.	71	0
+	+	71	0
+
+> ~/prac/c_p/te.cpp
+	*	1583310244	0
+	"	11	12
+	^	11	13
+	.	11	12
+	+	6	11
+	+	8	20
+	+	11	7
+	+	7	6
+	+	11	10
+	+	12	0
+	+	1	18
+	+	1	36
+	+	1	18
+	+	2	19
+	+	4	0
+	+	11	11
+	+	8	6
+	+	7	7
+	+	8	8
+	+	11	7
+	+	8	9
+	+	11	0
+	+	10	2
+	+	9	11
+	+	10	0
+	+	3	16
+	+	11	12
+
+> ~/prac/c_p/t.c
+	*	1583310236	0
+	"	2	1
+	.	2	0
+	+	1	17
+	+	2	11
+	+	3	13
+	+	1	10
+	+	2	0
+
+> ~/prac/c_p/t
+	*	1583310232	0
+	"	1	0
+
+> /etc/modules-load.d/modules.conf
+	*	1583284378	0
+	"	4	66
+	^	4	67
+	.	5	0
+	+	4	67
+	+	5	0
+
+> /etc/default/grub
+	*	1583283718	0
+	"	8	14
+	^	6	14
+	.	6	13
+	+	6	13
+
+> /boot/grub/grub.cfg
+	*	1583263924	0
+	"	145	0
+
+> ~/test.c
+	*	1583262651	0
+	"	4	16
+	^	4	17
+	.	4	16
+	+	2	11
+	+	3	6
+	+	3	11
+	+	4	16
+
+> /usr/src/linux-headers-5.3.0-40/Makefile
+	*	1583226626	0
+	"	53	59
+
+> /usr/src/linux-headers-5.3.0-28/arch/x86/boot/install.sh
+	*	1583224712	0
+	"	43	0
+
+> /usr/src/linux-headers-5.3.0-28/arch/x86/boot/genimage.sh
+	*	1583224697	0
+	"	55	0
+
+> ~/ten/test.cpp
+	*	1579962338	0
+	"	4	6
+	^	4	7
+	.	4	6
+	+	3	11
+	+	4	6
+
+> ~/detect/detectron2/setup.py
+	*	1578183016	0
+	"	1	0
+
+> ~/Jupyter_notebook/deep-learning-from-scratch/PracML/009.backpropagation_train.ipynb
+	*	1578141796	0
+	"	77	36
+
+> /etc/profile
+	*	1578042792	0
+	"	27	0
+	.	28	0
+	+	28	0
+
+> /etc/environment
+	*	1578042480	0
+	"	1	0
+	.	2	0
+	+	2	18
+	+	2	0
+
+> ~/.bash
+	*	1578042394	0
+	"	1	0
+
+> /etc/.bashrc
+	*	1578041338	0
+	"	1	0
+
+> /etc/bashrc
+	*	1578041333	0
+	"	1	0
+
+> ~/tensorflow/test.py
+	*	1578039325	0
+	"	10	34
+	^	10	35
+	.	10	34
+	+	3	23
+	+	4	55
+	+	5	49
+	+	5	109
+	+	5	5
+	+	5	49
+	+	6	49
+	+	7	30
+	+	8	30
+	+	9	11
+	+	10	34
+
+> ~/다운로드/cuda/NVIDIA_SLA_cuDNN_Support.txt
+	*	1578037795	0
+	"	1	0
+
+> ~./bashrc
+	*	1578035762	0
+	"	1	0
+
+> ~/test
+	*	1578035694	0
+	"	1	0
+
+> /usr/local/NERD_tree_1
+	*	1578030681	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/prac/test.cpp
+	*	1577994284	0
+	"	4	2
+	^	4	3
+	.	4	2
+	+	3	11
+	+	4	0
+	+	2	19
+	+	4	2
+
+> ~/다운로드/NVIDIA-Linux-x86_64-390.132.run
+	*	1577992687	0
+	"	1	0
+
+> ~/다운로드/NVIDIA-Linux-x86_64-384.130.run
+	*	1577989226	0
+	"	1	0
+
+> ~/.vim/.ycm_extra_conf.py
+	*	1577633067	0
+	"	56	0
+	^	56	0
+	.	56	0
+	+	49	30
+	+	45	41
+	+	47	1
+	+	47	44
+	+	49	1
+	+	47	0
+	+	46	0
+	+	45	1
+	+	46	6
+	+	45	0
+	+	48	0
+	+	47	0
+	+	50	0
+	+	49	0
+	+	56	41
+	+	52	0
+	+	52	19
+	+	54	1
+	+	55	28
+	+	56	69
+	+	56	29
+	+	56	30
+	+	56	29
+	+	52	20
+	+	46	41
+	+	48	47
+	+	50	31
+	+	54	37
+	+	54	29
+	+	54	28
+	+	52	21
+	+	53	11
+	+	54	10
+	+	55	0
+	+	56	29
+	+	57	0
+	+	50	10
+	+	45	0
+	+	43	0
+	+	44	0
+	+	43	0
+	+	44	0
+	+	57	0
+	+	58	0
+	+	59	0
+	+	60	0
+	+	43	0
+	+	44	0
+	+	43	0
+	+	44	0
+	+	41	5
+	+	52	5
+	+	45	0
+	+	46	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	56	0
+	+	55	0
+	+	36	0
+	+	35	0
+	+	36	0
+	+	35	0
+	+	77	27
+	+	41	5
+	+	43	0
+	+	41	5
+	+	43	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	52	0
+	+	41	5
+	+	42	0
+	+	43	0
+	+	44	0
+	+	43	0
+	+	51	0
+	+	55	0
+	+	56	0
+
+> ~/prac/c_p/tes.cpp
+	*	1577631854	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	10
+	+	1	7
+	+	1	0
+	+	1	5
+
+> ~/~.vimrc
+	*	1577631798	0
+	"	1	0
+
+> ~/[Vundle] Installer
+	*	1577631664	0
+	"	10	0
+	.	1	0
+	+	36	0
+	+	28	0
+	+	19	0
+	+	10	0
+	+	1	0
+
+> ~/.vim/NERD_tree_1
+	*	1577631129	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.ycm_extra_conf.py
+	*	1577630519	0
+	"	1	0
+
+> ~/prac/c_p/tes
+	*	1577630163	0
+	"	1	8
+	^	1	9
+	.	1	9
+	+	1	9
+
+> ~/prac/c_p/test.c
+	*	1577629922	0
+	"	10	6
+	^	10	7
+	.	10	6
+	+	1	16
+	+	8	11
+	+	9	0
+	+	3	6
+	+	4	0
+	+	6	1
+	+	6	0
+	+	9	13
+	+	11	0
+	+	9	7
+	+	10	6
+
+> ~/PycharmProjects/pycharmtest/venv/testpy/test.py
+	*	1577626905	0
+	"	3	7
+	^	4	11
+	.	4	10
+	+	3	21
+	+	7	0
+	+	4	17
+	+	5	0
+	+	4	2
+	+	3	17
+	+	4	17
+	+	5	0
+	+	3	0
+	+	1	18
+	+	4	10
+	+	3	7
+	+	4	10
+
+> ~/te.c
+	*	1577626533	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	6	11
+	+	10	1
+	+	8	0
+	+	6	0
+	+	1	26
+	+	1	17
+	+	4	1
+	+	3	6
+	+	8	14
+	+	7	12
+	+	8	20
+	+	9	16
+	+	1	27
+	+	1	17
+	+	1	18
+	+	2	6
+	+	5	11
+	+	6	6
+	+	6	8
+	+	6	5
+	+	6	7
+	+	6	1
+	+	1	16
+	+	1	0
+
+> ~/NERD_tree_1
+	*	1577626450	0
+	"	11	2
+	.	1	0
+	+	1	0
+
+> ~/PycharmProjects/pycharmtest/venv/pyvenv.cfg
+	*	1577626449	0
+	"	2	0
+
+> ~/test.cpp
+	*	1577625807	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/PycharmProjects/pycharmtest/venv/testpy/test
+	*	1577625391	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/test.py
+	*	1577622319	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/PluginInstall
+	"	1	0
+
+> /usr/include/tags
+	"	1	0
